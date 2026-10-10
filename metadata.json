@@ -1,0 +1,6 @@
+{
+  "name": "Dr. Ashwini's Smile Zone - Dental Clinic Mysuru",
+  "description": "Premium appointment booking and dental care clinic portal for Dr. Ashwini's Smile Zone in Gokulam, Mysuru. Book consultations, view services, and manage dental appointments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
